@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Nota1",
+    "note": "Nota Numero 1",
+    "color": "p3r4"
+  },
+  {
+    "id": 2,
+    "title": "nueva nota",
+    "note": "nota nueva",
+    "now": "Sat May 13 2023 01:02:51 GMT-0300 (Argentina Standard Time)"
+  }
+]
